@@ -1,0 +1,18 @@
+[
+    {
+        "soru": "Sistemde toplam kaç adet iptal edilmiş (canceled) sipariş var?",
+        "beklenen_arac": "SQL"
+    },
+    {
+        "soru": "Müşteriler ürünlerin paketlenmesi ve ambalaj kalitesi hakkında ne düşünüyor?",
+        "beklenen_arac": "RAG"
+    },
+    {
+        "soru": "Teslim edilen siparişlerin ortalama kargo ücreti (freight_value) nedir?",
+        "beklenen_arac": "SQL"
+    },
+    {
+        "soru": "Yanlış ürün gönderimiyle ilgili yapılan şikayetler nelerdir?",
+        "beklenen_arac": "RAG"
+    }
+]

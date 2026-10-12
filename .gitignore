@@ -1,0 +1,20 @@
+# Python Sanal Ortam Dosyaları
+venv/
+env/
+
+# Python Önbellek Dosyaları
+__pycache__/
+*.pyc
+*.pyo
+
+# Vektör Veritabanı ve Yerel Dosyalar
+chroma_db/
+*.duckdb
+*.db
+
+# Büyük Veri Setleri
+data/*.csv
+
+# İşletim Sistemi Gizli Dosyaları
+.DS_Store
+Thumbs.db
